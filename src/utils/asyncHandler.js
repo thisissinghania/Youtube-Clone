@@ -8,12 +8,6 @@ export {asyncHandler}
 
 
 
-
-
-
-
-
-
 // const asyncHandler = (asyncHandler) =>  async (err, req, res, next) => {
 //     try {
 //         await asyncHandler(err, req, res, next)
